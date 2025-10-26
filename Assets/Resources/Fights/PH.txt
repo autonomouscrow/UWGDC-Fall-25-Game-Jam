@@ -1,0 +1,19 @@
+0.7; 0.7; 1.5; 0.7; 0.7
+Confused
+0
+text; none; Im sorry, no body tells me anything?; ; ~~; false;
+text; none; Oh! Your brother died! Damn…; ; ~~; false;
+text; none; He was…; ; ~~; false;
+text; none; He was realy cool; ; ~~; false;
+text; none; Im sorry for your loss; ; ~~; false;
+text; none; I can show you around town if you like; ; ~~; false;
+text; none; Not too much to see…; ; ~~; false;
+text; none; heh, man, i kinda do miss him; ; ~~; false;
+statement; none; He was very kind; KIND; ~~; false;
+text; none; Super strong and quick witted; ; ~~; false;
+statement; none; Amazing sharpshooter too…; SHOOTGUD; ~~; false;
+text; none; Wished I was close enough that he would teach me; ; ~~; false;
+text; none; He didn't talk to many people; ; ~~; false;
+statement; none; Never even seen him go to “work”, heh, thats some willpower; DISLIKESWAMEN; ~~; false;
+text; none; Ok, thats a lie, i saw him one time, he told me not to say; ; ~~; false;
+statement; none; Kinda hard not to agree with when he was holding his “lucky knife”; KNIFE; ~~; false;

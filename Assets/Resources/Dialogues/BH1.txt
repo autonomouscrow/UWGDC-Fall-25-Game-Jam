@@ -1,0 +1,10 @@
+1; standard; Black Hat; false; happy; Howdy, lovely day aint it?; 2
+2; standard; Detective; true; neutral; Sure is; 3
+3; standard; Black Hat; false; happy; What brings you out here?; 4
+4; standard; Detective; true; neutral; Investigating; 5
+5; standard; Black Hat; false; confused; Hmm.. say are you Dirks brother?; 6
+6; choice; Detective; true; ~sus; yes , What do you know?; 7 || neutral; [walk away]; -1~
+7; attack; BH; 8; 9
+8; standard; Black Hat; false; neutral; Wow you sure do talk alot. sorry but I have to go back to work… \nZzzzzzzzzzz.....; 10
+9; standard; Black Hat; false; neutral; I don't appreciate your tone; 7
+10; standard; Black Hat; false; neutral; *writing in notepad*\nDirk frequented the "work house"; -1; TALKEDTOBH

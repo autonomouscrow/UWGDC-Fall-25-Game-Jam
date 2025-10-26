@@ -1,0 +1,12 @@
+GOOSE; DRUCK is actually a GOOSE
+QUACK; You finished the tutorial!
+DUCKSTAB; DRUCK STABBED your BROTHER
+ZZZZZZ; Your BROTHER Dirk is not an EARLY riser
+DRINKSBEER; Dirk LOVES drinking BEER
+QUIET; Dirk is a QUIET person
+SHOT; Dirk died from BEING SHOT
+DISLIKESWAMEN; Dirk does not go to the WORK HOUSE
+KIND; Dirk was very kind to everybody
+SHOOTGUD; Dirk is an amazing SHARPSHOOTER
+KNIFE; Dirk owns a LUCKY KNIFE
+NOTQUIET; Dirk is a showoff, not QUIET

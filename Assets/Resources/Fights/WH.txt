@@ -1,0 +1,20 @@
+1; 0.75; 1; 1.3; 1.5
+Confused
+0
+text; none; You stick out like a sore thumb in this town, you know that?; ; ~~; false;
+text; none; Look like some noir motherfucker; ; ~~; false;
+text; none; Really , you shouldn't play dressup round here; ; ~~; false;
+text; none; People are real fond of shooting up old detective mannequins; ; ~~; false;
+text; none; No, that wasn't a threat…; ; ~~; false;
+text; none; Man your just like him; ; ~~; false;
+text; none; Dont got much to say about em to be honest; ; ~~; false;
+statement; none; Quiet guy, livin a quiet life, just like everybody else; QUIET; ~~; false;
+text; none; Life here's pretty slow; ; ~~; false;
+text; none; Nothing much happens around here; ; ~~; false;
+text; none; Do a little shooting, do a little patrol; ; ~~; false;
+text; sad; Yeah yeah, your mourning, im sorry; ; ~~; false;
+text; none; I guess its sad hes gone; ; ~~; false;
+text; none; I suppose ill try to help; ; ~~; false;
+statement; none; So sad he was shot to death or something; SHOT; ~~; false;
+text; none; He was stabbed? Huh, always thought a gun would be his way out; ; ~~; false;
+text; none; Since he worked at the gun shop and all that; ; ~~; false;

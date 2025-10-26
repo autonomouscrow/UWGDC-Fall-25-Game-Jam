@@ -1,0 +1,8 @@
+1; standard; White Hat; false; angry; 	Who are you! I know the life of everyone who steps foot in this town and you're looking mighty unknown. ; 2
+2; standard; Detective; true; neutral; Im Dirks brother; 3
+3; standard; White Hat; false; neutral; Ah, that tracks… what do you want; 4
+4; choice; Detective; true; ~sus;What do you know about him?; 5 || neutral; Nevermind; -1~
+5; attack; WH; 7; 6
+6; standard; White Hat; false; angry; You are awful at conversation, You know that?; -1
+7; standard; White Hat; false; angry; You should stop being so nosey, your starting to piss me off.\nGet lost! scram! ; 8
+8; standard; Black Hat; false; neutral; *writing in notepad*\nDirk worked at the gun shop; -1; TALKEDTOWH

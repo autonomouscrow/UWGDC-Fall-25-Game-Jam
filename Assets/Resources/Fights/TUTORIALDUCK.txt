@@ -1,0 +1,38 @@
+1; 1; 1; 1; 1
+Confused
+5
+text; none; DUCKFAX WITH PROF DRUCK; ; ~~; true; 300
+text; none; This is an Interrogation, you have 4 options: attack, defend, deduction, and escape; ; ~~; false; 1400
+text; none; You can ATTACK with various techniques to increase TRUTH or various EMOTION values; ; ~~; false; 500
+text; none; You can DEFEND with other techniques to sacrifice TRUTH or EMOTION values to decrease others\nTry getting me to say some more by attacking me!; ; ~~; true; 395
+text; none; ; ; ~~; true; 995
+text; none; You probably noticed those bars in the top right; ; ~~; false ; 495
+text; none; That's your DETECT-O-VISION KNOWLEDGE METER TM R C; ; ~~; false; 495
+text; none; The top section shows you how high your TRUTH value is; ; ~~; false; 495
+text; none; When TRUTH reaches various thresholds, your Interrogation subject will start telling you things; ; ~~; false; 500
+text; none; And the bottom shows you how close you are to getting all of your interrogation subject's secrets\nKeep attacking me; ; ~~; true ; 960
+text; none; ; ; ~~; true; 1500
+text; none; The EMOTIONS are: SUS, HAPPINESS, SADNESS, CONFUSION, and ANGER; ; ~~; false; 500
+text; none; It is vital to manage these stats during any Interrogation; ; ~~; false; 500
+text; none; The people in this town have pretty good poker faces, you'll only see their top emotion if its strong enough; ; ~~; false; 500
+text; none; Be careful however, if an EMOTION gets too strong, it will cause your target to CUBIFY; ; ~~; false; 500
+text; none; Their SUS will increase rapidly if they stay CUBIFIED, too high of a SUS value means they will leave the interrogation instantly\n(keep increasing that truth value dunkass); ; ~~; true; 1530
+text; none; ; ; ~~; true; 2400
+text; none; Sometimes, your subject will tell you a STATEMENT:; ; ~~; false; 500
+statement; none; I'm actually a goose; GOOSE; ~~; false;
+text; none; STATEMENTs can be used in DEDUCTION alongside the FACTS you know to create ARGUMENTS\n(once in the DEDUCTION mode click a FACT and a STATEMENT to create an ARGUMENT); ; ~~; false; 500
+text; none; You have a limit of 4 ARGUMENTS that you can use at once, but they can be removed and swapped out without restriction; ; ~~; false; 500
+text; none; When you are happy with your ARGUMENTS, you can PRESENT them; ; ~~; false; 500
+text; none; This will either work, convincing them to tell you some FACTS, or not, increasing their SUS significantly; ; ~~; false; 500
+text; none; Welp, thats about it for the tutorial, here, have another STATEMENT from me; ; ~~; false; 500
+statement; none; Combine this one with any of your TRUTHs to leave the fight ; QUACK; ~~; false;
+text; none; W-why are you still here; ; ~~; false; 500
+text; none; You can go; ; ~~; false; 500
+text; none; Please leave; ; ~~; false; 500
+text; none; Please leave; ; ~~; false; 500
+text; none; Please leave; ; ~~; false; 500
+text; none; Please leave :'(; ; ~~; false; 500
+text; none; I can't take it anymore.; ; ~~; false; 500
+statement; none; I KILLED YOUR BROTHER ; DUCKSTAB; ~~; false;
+text; none; Now you know the truth; ; ~~; false; 500
+text; none; Leave me alone; ; ~~; false; 500

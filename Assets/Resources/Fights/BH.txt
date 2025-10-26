@@ -1,0 +1,20 @@
+1; 1.5; 1; 1.5; 1
+Confused
+0
+text; none; Don't really get much sleep with so much sun; ; ~~; true; 50
+text; none; Yeah I knew your brother; ; ~~; true; 150
+text; none; I don't much like small talk; ; ~~; true; 250
+text; none; Mmhmm; ; ~~; true; 350
+text; none; No, you cannot see my pistol; ; ~~; true; 450
+text; none; Hah, ha ha…; ; ~~; true; 550
+text; none; Your not from around these parts are ya; ; ~~; true; 650
+text; none; Man I miss the guy…; ; ~~; true; 750
+text; none; Dirk sure was something; ; ~~; true; 850
+text; none; Zzzzz…. Huh, sorry; ; ~~; true; 950
+text; none; Cant stand the morning shift; ; ~~; true; 1050
+statement; none; He wasn't much of an early riser either; ZZZZZZ; ~~; true; 1150
+text; none; That and he stayed up to late drinking; ; ~~; true; 1250
+statement; none; Man loved his beer; DRINKSBEER; ~~; true; 1350
+text; none; Ok, you got me, he couldn't drink the stuff because of "allergies"; ; ~~; true; 1450
+text; none; You'd think that make him no fun but he had his pull; ; ~~; true; 1550
+text; none; Spent a lot of time at the work house, think they gave him a discount; ; ~~; false;

@@ -1,0 +1,42 @@
+stdA1; Question; Ask them a question dunkass; standard; 20; 5; 0; 0; 0; 3; 0
+stdA2; Query; Ask them a question, but queer; standard; 20; 5; 0; 0; 0; 0; 5
+stdA3; Quack; Quattack. ; standard; -2; 7; 8; -2; 10; -3; 15
+
+stdD1; Change the subject; Weather sure is weatherin huh; standard; -10; -10; -5; -5; -5; -5; -5
+stdD2; *stare at them*; 👁️👄👁️; standard; -20; 3; -7; -7; 4; 2; 5
+stdD3; Quack; Quadefense. ; standard; -60; 5; -2; -2; -2; -2; 23
+
+chrA1; Joke; murderersayswhat?; cheerful; 26; 0; 10; -5; 3; 3; -7
+chrA2; Wager; I bet you dont know who killed my bro; cheerful; 10; 5; 15; -5; 5; 1; 2
+
+chrD1; Compliment; Your [insert feature] is [desireable attribute]; cheerful; -10; 5; 10; -10; 5; -6; 20
+chrD2; Do a jig; 🎵🎵🎵; cheerful; 2; 5; 30; 0; 20; 8; -9
+
+cnfA1; Whats that over there?; No really, what is that; confused; 24; 7; 3; 3; 15; -6; 1
+cnfA2; Quadruple negative; Are you not not not not the one who killed my bro?; confused; -4; 5; 0; 0; 31; 8; 4
+
+cnfD1; Nevermind.; Lets get back on track; confused; 6; 4; 0; 7; -10; 7; 1
+cnfD2; Take a breather; Bring awareness to your breath; confused; 0; 2; 8; 2; -15; -15; 5
+
+aggA1; Attack; WHERE DID YOU HIDE THE BODY MOTHERFUCKER; aggressive; 28; -12; 0; 10; -10; 28; -10
+aggA2; CONFESS!!!!; I KNOW YOU DID IT!!; aggressive; 40; 10; 0; 20; -10; 20; -20
+
+aggD1; Back down; sorgy; aggressive; 4; 2; 5; 0; 3; -18; 7
+aggD2; Gaslight; I didnt say anything, calm down buddy; aggressive; -6; 15; 3; 3; 30; -30; 4
+
+sadA1; Guilt trip; I just wanna know what happened to him....; sad; 10; -12; 0; 20; -5; -2; -10
+sadA2; Lament; :( :( My dog died yesterday too; sad; 4; -2; 0; 10; 5; -5; -10
+
+sadD1; Offer a tissue; Here ya go; sad; 0; -2; 0; -5; 0; 0; 2
+sadD2; Join the crying; :'(; sad; 0; -17; 0; -30; 9; 0; -15
+
+sexy1; Seduce; *blow kisses*; sexy; 0; 0; 0; 0; 0; 0; 60
+sexy2; Go to work; ( ͡° ͜ʖ ͡°); sexy; -40; -42; 40; 0; 20; 0; 80
+
+cube1; Listen to the voices; Squawk like a bird and shit on the desk; cubism; -80; 46; 36; 16; -17; 18; 40
+cube2; Pretend to drink from a glass; You don't have a glass; cubism; -64; 50; -35; 39; 40; -1; 30
+
+cube3; S H A P E S; mmmmmmm shapes; cubism; 20; -29; -38; -3; -10; 1; 17
+cube4; Break the fourth wall; [I see you] [run]; cubism; -70; 4; 14; -9; -25; 13; -10
+
+DEBUG; free; free; standard; 100;0;0;0;0;0;0

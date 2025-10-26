@@ -1,0 +1,24 @@
+1; 2; 1; 1; 1.5
+happy
+1
+text; none; Your a player aren't you?; ; ~~; false;
+text; none; Your sweet, honey.; ; ~~; false;
+text; none; Ooh la la; ; ~~; false;
+text; none; No… I don't take credit, only cash; ; ~~; false;
+text; none; Your one tough cookie arnt yah; ; ~~; false;
+text; none; Fine, well see if my squarespace still works; ; ~~; false;
+text; none; Thats not what your after isnt it; ; ~~; false;
+text; none; Your no fun; ; ~~; false;
+text; none; Your brother on the other hand…; ; ~~; false;
+text; none; He was quite the man; ; ~~; false;
+text; none; Always carrying around as many weapons as he could muster; ; ~~; false;
+statement; none; A show off really, quite a loud fella; NOTQUIET; ~~; false;
+text; none; Still wasn't close to anyone ; ; ~~; false;
+text; none; Trusted his boss with his life tho; ; ~~; false;
+text; none; Told him everything apparently; ; ~~; false;
+text; none; Thought of him as his father or something; ; ~~; false;
+text; none; I feel bad for your dad, Hah; ; ~~; false;
+text; none; Trusted no one else; ; ~~; false;
+statement; none; Always slept with a knife under his pillow; KNIFE; ~~; false;
+text; none; Even here! The nerve!; ; ~~; false;
+text; none; I cant even; ; ~~; false;

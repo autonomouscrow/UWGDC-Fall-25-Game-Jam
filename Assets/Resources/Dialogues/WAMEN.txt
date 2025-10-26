@@ -1,0 +1,11 @@
+1; standard; Druck;false; neutral; Oh hey! Your back, did you find em?; 2
+2; standard; Detective; true; neutral; …;3
+3; standard; Druck; false;happy ;awww… was it too hard for you?;4
+4; standard; Detective; true; angry; I know you did it…;5
+5; standard; Druck; false; confused; …;6
+6; standard; Druck; false; Angry; Why in any world of worlds would you accuse me?;7
+7; standard; Detective; true; angry; You killed him with his own Lucky knife, stolen straight from under his head./n you were the only one in his room, he never had any close connections with anyone else…;8
+8; standard; Detective; true; sad; how could you…;9
+9; standard; Druck; false; angry; …;10
+10; standard; Druck; false; sad; …;11
+11; standard; Druck; false; neutral; *quack- ;-1; ENDING1

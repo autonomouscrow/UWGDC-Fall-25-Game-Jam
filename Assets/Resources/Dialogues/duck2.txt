@@ -1,0 +1,14 @@
+1; standard; Druck; false; neutral; "lol gottem"; 2
+2; standard; Druck; false; happy; "anyways, welcome to the cheery town of CADAVERVILLE! \nToo bad you couldnt visit for a happier occasion, given that your brother's dead... But hey, at least you're a detective! You can solve the crime!"; 3
+3; standard; Druck; false; happy; "but first, theres some things you gotta know about talking to people here"; 4
+4; standard; Druck; false; happy; "you currently know two FACTS: Your BROTHER DIED OF A STABBING AT 5AM, and HE's ALLERGIC to BARLEY"; 5
+5; standard; Detective; true; neutral; "why are you talking like that... actually why are you talking at all??"; 6
+6; standard; Druck; false; happy; "I am(was) your brother's EMOTIONAL SUPPORT DUCK\nanyways\neveryone else in town also KNOWS things about your BROTHER\nbut they don't always tell the truth"; 7
+7; standard; Druck; false; sad; "it's YOUR job to figure out what the true story is, and find your BROTHER's KILLER"; 8
+8; standard; Druck; false; neutral; "you're probably thinking, "Oh dear DRUCK my lord and savior, how do I collect FACTS?""; 9
+9; standard; Druck; false; happy; "well, dear Detective, you must engage in bouts of VERBAL BATTLE of course!"; 10
+10; standard; Druck; false; happy; "c'mon, give it a shot!"; 11
+11; choice; Detective; true; ~neutral; I wanna listen to your tutorial again; 2 || neutral; FIGHT; 12~
+12; attack; TUTORIALDUCK; 13; 14
+13; standard; Druck; false; happy; "nice job! now go out there and <s>attack everyone</s> find out who killed your BROTHER!"; -1; DUCKDOOROPENFLAG
+14; standard; Druck; false; sad; "lets try that again"; 11

@@ -1,0 +1,7 @@
+1; standard; Party Hat; false; neutral;Hi… yes im on patrol right now… no my vests in the wash..; 2
+2; standard; Detective; true; neutral;Sorry to bother you; 3
+3; standard; Party Hat; false; sad; Its ok… this is what you get as the youngest child; 4
+4; choice; Detective; true; ~neutral;That's.. Terrible. Speaking of siblings, did you know mine?; 5 || neutral; Sorry… (leave); -1~
+5; attack; PH; 6; 7
+6; standard; Party Hat; false; sad; I really did look up to him tho… even after.\nI'm sorry for the trauma dumping\n*writing in notepad*\n Has lucky knife; -1; TALKEDTOPH
+7; standard; Party Hat; false; sad; Im sorry… I just can't right now.; -1; 
